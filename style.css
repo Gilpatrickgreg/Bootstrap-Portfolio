@@ -64,7 +64,7 @@ body {
   
   h2,
   h3 {
-    font-size: 22px;
+    font-size: 20px;
   }
   
   /* header */
@@ -131,14 +131,14 @@ body {
   h3, h2 {
     padding-bottom: 20px;
     margin-bottom: 15px;
-    line-height: 22px;
+    line-height: 20px;
     border-bottom: 2px solid #eeeeee;
   }
   
   /* main */
   
   #main-container {
-    padding-top: 120px;
+    padding-top: 10px;
     min-height: calc(100vh - 70px);
   }
   
@@ -174,9 +174,9 @@ body {
   
   .work h3 {
     position: absolute;
-    bottom: 20px;
+    bottom: 1px;
     width: 100%;
-    padding: 15px;
+    padding: 10px;
     margin-bottom: 0;
     font-weight: 300;
     line-height: 30px;
